@@ -1,0 +1,100 @@
+commit 8bd0841c696aef1fca0c9afdd0a6952fda347577
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Wed Aug 30 18:42:03 2023 -0600
+
+    Agregando dos párrafos
+
+commit b5087c058ec635cd38fe6ec95f3f6795aec0961e
+Merge: 0436837 b4b3a93
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Wed Aug 30 18:40:02 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 043683763f484c9c598212786b77b3e06bd07f02
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Wed Aug 30 18:19:28 2023 -0600
+
+    Agregando todas las estaciones del año
+
+commit b4b3a938b5ee216f1ef36e4665cf415dfa4b31d6
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Wed Aug 30 18:19:28 2023 -0600
+
+    Agregando todas las estaciones del año
+
+commit 69add2e31a697d133053c8e0013b30cdc0d24469
+Merge: 40c59cc 25f7cb7
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Wed Aug 30 15:42:48 2023 -0600
+
+    Resolviendo conflicto main merge html en el documento index.html
+
+commit 25f7cb778a51d70bbda486ccb3bc1f798ce28b80
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Wed Aug 30 15:36:31 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 40c59ccf73e1411aa6d2469a722a630555e8ecdb
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Wed Aug 30 15:33:31 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 19a13b35b4c7be499c0d814ea72167a12f7c53c6
+Merge: aa068ca 8617b0e
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Wed Aug 30 15:20:12 2023 -0600
+
+    Merge branch 'js'
+
+commit 8617b0eccdadcabc00b01c1a3823e0df86c26aa1
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Tue Aug 29 18:39:08 2023 -0600
+
+    creando index.js
+
+commit aa068cac7599eea2899551bbf275e49f94ae8e84
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Tue Aug 29 18:35:08 2023 -0600
+
+    creando style.css
+
+commit 632b86682474e4317394339b476abaf0e7b9e60e
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Tue Aug 29 18:29:38 2023 -0600
+
+    creando archivo index.html
+
+commit ae40c7ab5268abfce954274e3db27894436666e3
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Tue Aug 29 18:04:17 2023 -0600
+
+    Ignorando archivos.exe
+
+commit 4c9b94e66c518225294ca7b242b8c9467173adac
+Author: DMadrid03 <136842885+DMadrid03@users.noreply.github.com>
+Date:   Tue Aug 29 12:38:33 2023 -0600
+
+    License creation
+    
+    Creando licencia de repositorio, con plantilla del MIT
+
+commit 59db4a6d8ee9e8f4cb2d9f26b320aea175d184ba
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Tue Aug 29 12:29:53 2023 -0600
+
+    Agregando mas contenido al README
+
+commit 2d6d9134682514ae4ce354b9d48f861136ad4733
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Mon Aug 28 16:59:12 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit 957e9cd183f824a2b4321c9a63157c7b5add8df9
+Author: Daniel Sanchez <danielmadrid@unah.hn>
+Date:   Mon Aug 28 16:55:10 2023 -0600
+
+    Primer commit :)
